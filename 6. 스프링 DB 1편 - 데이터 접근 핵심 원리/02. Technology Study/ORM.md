@@ -2,7 +2,7 @@
 ### 주제 : ORM(Object Relational Management)
 ---
 ### 태그
-* #ORM, #JDBC, #JDBC한계극복
+* #ORM, #JDBC, #JDBC한계극복, #SQLMapper한계극복
 
 ### 메모
 * 어디서(어떤 상황에서)

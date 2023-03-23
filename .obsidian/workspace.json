@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bea89ea0a4e86057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md"
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +180,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.4019828977761009,
                   "close": true
                 }
               }
@@ -190,12 +203,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "24f82ce5e105834e",
+  "active": "bea89ea0a4e86057",
   "lastOpenFiles": [
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/ORM.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/무제 파일.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/MyBatis.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/03. Technology Study/JDBC.md",
     "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study/무제 파일 1.md",
     "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study",
@@ -226,7 +240,6 @@
     "8. 스프링 핵심 원리 - 고급편/02. Technology Study/무제 파일 1.md",
     "8. 스프링 핵심 원리 - 고급편/03. Trouble Shooting/무제 파일 2.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/무제 파일 2.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/무제 파일 1.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/03. Trouble Shooting/H2 DataBase lock 오류 발생.md"
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/무제 파일 1.md"
   ]
 }
