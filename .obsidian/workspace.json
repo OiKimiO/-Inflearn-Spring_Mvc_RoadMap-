@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/개념 정리/무제 파일.md",
+                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,40 +23,27 @@
             "id": "ace7213fff52f57d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/기술 정리/무제 파일 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "e270715bfe27befc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/트러블 슈팅/무제 파일 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "cd01504e511d5dc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md",
+                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md",
+                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md"
+                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md"
               }
             }
           },
@@ -173,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md",
+                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +214,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cd01504e511d5dc0",
+  "active": "6852811a39c3aa69",
   "lastOpenFiles": [
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/domain/item/ItemV1.class",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/domain/item/ItemRepository.class",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/domain/item/Item.class",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/web/validation/ValidationItemControllerV4.class",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/web/validation/ValidationItemControllerV3.class",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/web/validation/ValidationItemControllerV2.class",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/SpringExceptionTranslatorTest.class",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/ExTranslatorV1Test.class",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/ExTranslatorV1Test$Service.class",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/ExTranslatorV1Test$Repository.class",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/basic/UnCheckedTest.class",
+    "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/개념 정리/무제 파일.md",
     "0. InBox/9. 실전! 스프링 부트/스프링 부트(실전) - 요약 정리.md",
     "0. InBox/9. 실전! 스프링 부트/스프링 핵심 원리(고급) - 요약 정리.md",
     "0. InBox/8. 스프링 핵심 원리 - 고급편/스프링 핵심 원리(고급) - 요약 정리.md",
@@ -249,21 +248,9 @@
     "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/트러블 슈팅/무제 파일 2.md",
     "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md",
     "0. InBox/9. 실전! 스프링 부트/트러블 슈팅/무제 파일 2.md",
-    "0. InBox/9. 실전! 스프링 부트/트러블 슈팅",
     "0. InBox/9. 실전! 스프링 부트/기술 정리/무제 파일 1.md",
-    "0. InBox/9. 실전! 스프링 부트/기술 정리",
     "0. InBox/9. 실전! 스프링 부트/개념 정리/무제 파일.md",
-    "0. InBox/9. 실전! 스프링 부트/개념 정리",
     "0. InBox/8. 스프링 핵심 원리 - 고급편/트러블 슈팅/무제 파일 2.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/트러블 슈팅",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/기술 정리/무제 파일 1.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/기술 정리",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/개념 정리/무제 파일.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/개념 정리",
-    "0. InBox/7. 스프링 DB 2편 - 데이터 접근 활용 기술/트러블 슈팅/무제 파일 2.md",
-    "0. InBox/7. 스프링 DB 2편 - 데이터 접근 활용 기술/트러블 슈팅",
-    "0. InBox/7. 스프링 DB 2편 - 데이터 접근 활용 기술/기술 정리",
-    "0. InBox/7. 스프링 DB 2편 - 데이터 접근 활용 기술/개념 정리",
-    "0. InBox/6. 스프링 DB 1편 - 데이터 접근 핵심 원리/트러블 슈팅"
+    "0. InBox/8. 스프링 핵심 원리 - 고급편/기술 정리/무제 파일 1.md"
   ]
 }
