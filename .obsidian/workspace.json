@@ -25,30 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c0e8c6fe0a8efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/DriverManager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f27ec85ea60698e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/DriverManager.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +161,15 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#java",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
@@ -196,8 +180,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357398967,
-                  "close": false
+                  "scale": 1.4019828977761009,
+                  "close": true
                 }
               }
             }
@@ -219,17 +203,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f27ec85ea60698e0",
+  "active": "bea89ea0a4e86057",
   "lastOpenFiles": [
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/MyBatis.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/DriverManager.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/무제 파일.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230323184047.png",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/ORM.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/SQL Mapper.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/DriverManager.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230323184047.png",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/무제 파일.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/ResultSet.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/PrepareStatement.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/MyBatis.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/03. Technology Study/JDBC.md",
     "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study/무제 파일 1.md",
     "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study",
@@ -254,8 +240,6 @@
     "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/02. Technology Study/무제 파일 1.md",
     "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/02. Concept Study/무제 파일.md",
     "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/03. Trouble Shooting/무제 파일 2.md",
-    "9. 실전! 스프링 부트/02. Technology Study/무제 파일 1.md",
-    "9. 실전! 스프링 부트/03. Trouble Shooting/무제 파일 2.md",
-    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/무제 파일 1.md"
+    "9. 실전! 스프링 부트/02. Technology Study/무제 파일 1.md"
   ]
 }
