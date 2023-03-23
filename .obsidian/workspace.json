@@ -4,43 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fde9a64c7975024a",
+        "id": "8430567b5999a2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "1feeb22da4a74610",
+            "id": "24f82ce5e105834e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ace7213fff52f57d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e270715bfe27befc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cd01504e511d5dc0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -94,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "e3cbc1dc8ff5f94c",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md"
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md"
               }
             }
           },
@@ -160,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/스프링 입문 - 요약 정리.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,43 +190,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6852811a39c3aa69",
+  "active": "24f82ce5e105834e",
   "lastOpenFiles": [
-    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/domain/item/ItemV1.class",
-    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/domain/item/ItemRepository.class",
-    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/domain/item/Item.class",
-    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/web/validation/ValidationItemControllerV4.class",
-    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/web/validation/ValidationItemControllerV3.class",
-    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/validation/bin/main/hello/itemservice/web/validation/ValidationItemControllerV2.class",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/SpringExceptionTranslatorTest.class",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/ExTranslatorV1Test.class",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/ExTranslatorV1Test$Service.class",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/translator/ExTranslatorV1Test$Repository.class",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/jdbc/bin/test/hello/jdbc/exception/basic/UnCheckedTest.class",
-    "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/0. InBox/개념 정리/무제 파일.md",
-    "0. InBox/9. 실전! 스프링 부트/스프링 부트(실전) - 요약 정리.md",
-    "0. InBox/9. 실전! 스프링 부트/스프링 핵심 원리(고급) - 요약 정리.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/스프링 핵심 원리(고급) - 요약 정리.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/스프링 DB2 - 요약 정리.md",
-    "0. InBox/7. 스프링 DB 2편 - 데이터 접근 활용 기술/스프링 DB2 - 요약 정리.md",
-    "0. InBox/7. 스프링 DB 2편 - 데이터 접근 활용 기술/스프링 DB1 - 요약 정리.md",
-    "0. InBox/6. 스프링 DB 1편 - 데이터 접근 핵심 원리/스프링 DB1 - 요약 정리.md",
-    "0. InBox/6. 스프링 DB 1편 - 데이터 접근 핵심 원리/스프링 MVC2 - 요약 정리.md",
-    "0. InBox/5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/스프링 MVC2 - 요약 정리.md",
-    "0. InBox/5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/스프링 MVC - 요약 정리.md",
-    "0. InBox/5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/스프링 MVC1 - 요약 정리.md",
-    "0. InBox/4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술/스프링 MVC1 - 요약 정리.md",
-    "0. InBox/4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술/스프링 핵심 원리 - 요약 정리.md",
-    "0. InBox/3. 모든 개발자를 위한 HTTP 웹 기본 지식/HTTP 웹 기본 지식 - 요약 정리.md",
-    "0. InBox/3. 모든 개발자를 위한 HTTP 웹 기본 지식/스프링 핵심 원리 - 요약 정리.md",
-    "0. InBox/2. 스프링 핵심 원리 - 기본편/스프링 핵심 원리 - 요약 정리.md",
-    "0. InBox/2. 스프링 핵심 원리 - 기본편/스프링 입문 - 요약 정리.md",
-    "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/트러블 슈팅/무제 파일 2.md",
-    "0. InBox/1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/스프링 입문 - 요약 정리.md",
-    "0. InBox/9. 실전! 스프링 부트/트러블 슈팅/무제 파일 2.md",
-    "0. InBox/9. 실전! 스프링 부트/기술 정리/무제 파일 1.md",
-    "0. InBox/9. 실전! 스프링 부트/개념 정리/무제 파일.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/트러블 슈팅/무제 파일 2.md",
-    "0. InBox/8. 스프링 핵심 원리 - 고급편/기술 정리/무제 파일 1.md"
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/ORM.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/H2 DataBase.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/무제 파일.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/03. Technology Study/JDBC.md",
+    "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study/무제 파일 1.md",
+    "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study",
+    "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/03. Trouble Shooting/무제 파일 2.md",
+    "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/03. Trouble Shooting",
+    "2. 스프링 핵심 원리 - 기본편/02. Technology Study/무제 파일 1.md",
+    "2. 스프링 핵심 원리 - 기본편/02. Technology Study",
+    "2. 스프링 핵심 원리 - 기본편/03. Trouble Shooting/무제 파일 2.md",
+    "2. 스프링 핵심 원리 - 기본편/03. Trouble Shooting",
+    "3. 모든 개발자를 위한 HTTP 웹 기본 지식/02. Technology Study/무제 파일 1.md",
+    "3. 모든 개발자를 위한 HTTP 웹 기본 지식/02. Technology Study",
+    "3. 모든 개발자를 위한 HTTP 웹 기본 지식/03. Trouble Shooting/무제 파일 2.md",
+    "3. 모든 개발자를 위한 HTTP 웹 기본 지식/03. Trouble Shooting",
+    "4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술/02. Technology Study/무제 파일 1.md",
+    "4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술/02. Technology Study",
+    "4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술/03. Trouble Shooting/무제 파일 2.md",
+    "4. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술/03. Trouble Shooting",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/02. Technology Study/무제 파일 1.md",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/02. Technology Study",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/03. Trouble Shooting/무제 파일 2.md",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/03. Trouble Shooting",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/03. Technology Study/무제 파일 1.md",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/02. Technology Study/무제 파일 1.md",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/02. Concept Study/무제 파일.md",
+    "5. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/04. Trouble Shooting/03. Trouble Shooting/무제 파일 2.md",
+    "9. 실전! 스프링 부트/02. Technology Study/무제 파일 1.md",
+    "9. 실전! 스프링 부트/03. Trouble Shooting/무제 파일 2.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/무제 파일 1.md",
+    "8. 스프링 핵심 원리 - 고급편/03. Trouble Shooting/무제 파일 2.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/무제 파일 2.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/무제 파일 1.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/03. Trouble Shooting/H2 DataBase lock 오류 발생.md"
   ]
 }
