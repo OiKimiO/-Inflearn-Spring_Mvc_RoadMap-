@@ -15,7 +15,7 @@
 	* 작업 완료 후 Connection Pool에 Connection을 반납
 
 * **왜(왜 사용되는지)**
-	* JDBC를 통해 Connection을 관리할 경우 시간 소모가 크다는 단점이 있음
+	* JDBC가 Connection을 획득하는 과정에서의 시간 소모가 크다는 단점이 있음
 		* 이러한 단점을 해결하고자 Connection 사용 및 반납을 관리해주는 Connection Pool이 나옴
 	* Connection 수를 관리해 무한정 연결 생성을 막아 보안이 뛰어남 
 

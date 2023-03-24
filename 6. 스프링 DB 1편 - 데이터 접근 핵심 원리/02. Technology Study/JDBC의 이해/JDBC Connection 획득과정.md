@@ -2,7 +2,7 @@
 ### 주제 : DB Connection 획득 과정
 ---
 ### 태그
-* #ConnectionPool, #JDBC_Connection_획득과정
+* #JDBC_Connection_획득과정
 
 ### 메모
 * **DB Connection 획득과정**
