@@ -2,7 +2,7 @@
 ### 주제 : 트랜잭션ACID
 ---
 ### 태그
-* #트랜잭션
+* #트랜잭션, #Atomicitiy, #Consistency, #Isolation, #Durability
 
 ### 메모
 -   트랜잭션은 각각 **원자성**(Atomicitiy), **일관성**(Consistency), **격리성**(Isolation), **지속성**(Durability)을 보장
@@ -20,7 +20,7 @@
         -   중간에 시스템 문제가 발생해도 데이터베이스 로그 등을 사용해 트랜잭션 내용을 복구
 
 ### 출처(참고문헌)
--  
+-  김영한 DB-1
 
 ### 연결문서
 - 

@@ -13,13 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션ACID.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "81bcb4402729ff5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02b6ba97f9ff63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d3a238b09892447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/Spring Transaction 추상화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49720dc15409db11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 동기화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cb16553e97459fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f275f24825408e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/AOP를 통한 트랜잭션 문제 - 프록시 도입.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f00e2f4a739d5365",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -38,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#트랜잭션ACID",
+                "query": "tag:#Transaction_추상화",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션ACID.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션ACID.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션ACID.md"
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png"
               }
             }
           },
@@ -136,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션ACID.md",
+                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,24 +265,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f9a319d6dd5c239a",
+  "active": "6852811a39c3aa69",
   "lastOpenFiles": [
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션은 서비스 계층에서 처리.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션 격리수준.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/DB락.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해/트랜잭션ACID.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/스프링 부트 자동 등록.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 격리수준.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 동기화.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션은 서비스 계층에서 처리.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/Spring Transaction 추상화.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/AOP를 통한 트랜잭션 문제 - 프록시 도입.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325101215.png",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325100759.png",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325100658.png",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325095352.png",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Transaction_Abstract.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Untitled.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230323184047.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230324085203.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230324111840.png",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230324160406.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DBCP.md",
     "2023-03-24.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/JDBC Connection 획득과정.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/객체지향 프로그래밍/다형성.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/JDBC.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션 이해",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/HikariCP.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DataSource.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/Connection.md",
@@ -209,17 +304,10 @@
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/SQL Mapper.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/Statement.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/ORM.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/ResultSet.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/Connection Pool.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/MyBatis.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/DriverManager.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/PreparedStatement.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/03. Trouble Shooting/H2 DataBase lock 오류 발생.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/객체지향 프로그래밍",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/DBCP",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해",
-    "Pasted image 20230324085200.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile",
     "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/02. Technology Study",
     "1. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술/03. Trouble Shooting",
