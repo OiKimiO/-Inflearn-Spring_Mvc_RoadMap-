@@ -4,143 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "6bde125eda6e8ad0",
+        "id": "0fa347770675f8d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f9a319d6dd5c239a",
+            "id": "fc3d376005f169ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EventListener.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81bcb4402729ff5a",
+            "id": "ab377c99e65c4fe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c02b6ba97f9ff63d",
+            "id": "d873e203db1cec10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@Import.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d3a238b09892447",
+            "id": "7f441750e5b06d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/Spring Transaction 추상화.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@SpringBootApplication(scanBasePackages=하위경로).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "49720dc15409db11",
+            "id": "a357aa5495ea6291",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 동기화.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/profile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2cb16553e97459fe",
+            "id": "cbf1e90158bc3a48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f275f24825408e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/AOP를 통한 트랜잭션 문제 - 프록시 도입.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f00e2f4a739d5365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/ORM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9ee2826cea60c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/식별자 선택 전략.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3728d7f4480489da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/테이블의 기본키 선택 전략.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74f51bffccf60828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Transaction_추상화",
+                "query": "tag:#대리_키",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md"
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md"
               }
             }
           },
@@ -257,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,8 +244,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "74f51bffccf60828",
+  "active": "cbf1e90158bc3a48",
   "lastOpenFiles": [
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/서비스의 인터페이스.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/profile.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/generated by default as identity.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/DTO.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EvenetListener(ApplicationReadyEvent.class).md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@EventListener.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@Import.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/@SpringBootApplication(scanBasePackages=하위경로).md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/식별자 선택 전략.md",
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/hello/itemservice/domain/ItemRepositoryTest.class",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/web/ItemController.class",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/web/HomeController.class",
@@ -316,11 +267,7 @@
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/repository/ItemSearchCond.class",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/repository/ItemRepository.class",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/domain/Item.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/config/MemoryConfig.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/식별자 선택 전략.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/테이블의 기본키 선택 전략.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/자연키보다 대리키를 권장.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/DTO.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/ORM.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/HELP.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db-start/HELP.md",
@@ -328,7 +275,6 @@
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/SQL Mapper.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325094854.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/반복되는 트랜잭션 문제 해결.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/순수한 서비스 계층.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/스프링 부트 자동 등록.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 격리수준.md",
@@ -337,8 +283,6 @@
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션 추상화.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/트랜잭션ACID.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/Spring Transaction 추상화.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/AOP를 통한 트랜잭션 문제 - 프록시 도입.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/트랜잭션/DB락.md",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325101215.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325100759.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230325100658.png",
@@ -347,10 +291,6 @@
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Untitled.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230323184047.png",
     "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230324085203.png",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230324111840.png",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/커넥션 풀과 데이터소스/DBCP.md",
-    "2023-03-24.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/JDBC Connection 획득과정.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/객체지향 프로그래밍/다형성.md"
+    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/04. ImageFile/Pasted image 20230324111840.png"
   ]
 }
