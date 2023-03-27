@@ -18,4 +18,4 @@ int countOfActorsNamedJoe = jdbcTemplate.queryForObject(
 -  김영한 DB-2
 
 ### 연결문서
-- [[조회]]
+- [[JdbcTemplate 조회]]
