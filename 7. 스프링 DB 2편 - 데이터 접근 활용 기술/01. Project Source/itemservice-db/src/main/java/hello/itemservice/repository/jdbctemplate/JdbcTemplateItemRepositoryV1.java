@@ -1,16 +1,20 @@
 package hello.itemservice.repository.jdbctemplate;
 
 import java.sql.PreparedStatement;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
 import javax.sql.DataSource;
 
+import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.support.GeneratedKeyHolder;
 import org.springframework.jdbc.support.KeyHolder;
 import org.springframework.stereotype.Repository;
 
+import org.springframework.util.StringUtils;
 
 import hello.itemservice.domain.Item;
 import hello.itemservice.repository.ItemRepository;
@@ -52,20 +56,69 @@ public class JdbcTemplateItemRepositoryV1 implements ItemRepository{
 
 	@Override
 	public void update(Long itemId, ItemUpdateDto updateParam) {
-		// TODO Auto-generated method stub
+		String sql = "update item set item_name = ?, price = ?, quantity = ? where id=?";
 		
+		template.update(sql,
+						updateParam.getItemName(),
+						updateParam.getPrice(),
+						updateParam.getQuantity(),
+						itemId);
 	}
 
 	@Override
 	public Optional<Item> findById(Long id) {
-		// TODO Auto-generated method stub
-		return null;
+		String sql = "select id, item_name, price, quantity from item where id=?";
+		try {
+			Item item = template.queryForObject(sql, itemRowMapper(),id);
+			return Optional.of(item);
+		}catch(EmptyResultDataAccessException e) {
+			return Optional.empty();
+		}
+	}
+
+	private RowMapper<Item> itemRowMapper() {
+		return (rs, rowNum) -> {
+			Item item = new Item();
+				 item.setId(rs.getLong("id"));
+				 item.setItemName(rs.getString("item_name"));
+				 item.setPrice(rs.getInt("price"));
+				 item.setQuantity(rs.getInt("quantity"));
+			return item;
+		};
 	}
 
 	@Override
 	public List<Item> findAll(ItemSearchCond cond) {
-		// TODO Auto-generated method stub
-		return null;
+		String itemName  = cond.getItemName();
+		Integer maxPrice = cond.getMaxPrice();
+		
+		String sql = "select id, item_name, price, quantity from item";
+		
+		// 동적 쿼리
+		if(StringUtils.hasText(itemName) || maxPrice != null) {
+			sql += " where";
+		}
+		
+		boolean andFlag = false;
+		List<Object> param = new ArrayList<>();
+		
+		if(StringUtils.hasText(itemName)) {
+			sql += " item_name like concat('%',?,'%')";
+			param.add(itemName);
+			andFlag = true;
+		}
+		
+		if(maxPrice != null) {
+			if(andFlag) {
+				sql += " and";
+			}
+			
+			sql += " price <= ?";
+			param.add(maxPrice);
+		}
+		
+		log.info("sql={}",sql);
+		return template.query(sql, itemRowMapper(), param.toArray());
 	}
 	
 }

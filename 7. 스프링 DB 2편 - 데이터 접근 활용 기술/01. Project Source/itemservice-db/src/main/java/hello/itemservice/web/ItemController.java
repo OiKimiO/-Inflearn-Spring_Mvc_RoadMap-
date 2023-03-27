@@ -54,7 +54,7 @@ public class ItemController {
     }
 
     @PostMapping("/{itemId}/edit")
-    public String edit(@PathVariable Long itemId, @ModelAttribute ItemUpdateDto updateParam) {
+    public String edit(@PathVariable Long itemId, @ModelAttribute ItemUpdateDto updateParam) throws Exception {
         itemService.update(itemId, updateParam);
         return "redirect:/items/{itemId}";
     }

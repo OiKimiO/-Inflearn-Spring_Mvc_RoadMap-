@@ -41,7 +41,7 @@ class ItemRepositoryTest {
     }
 
     @Test
-    void updateItem() {
+    void updateItem() throws Exception {
         //given
         Item item = new Item("item1", 10000, 10);
         Item savedItem = itemRepository.save(item);
