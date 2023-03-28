@@ -2,7 +2,7 @@
 ### 주제 : DriverManager
 ---
 ### 태그
-* #jdbc, #Connection
+* #JDBC, #Connection
 
 ### 메모
 * **어디서(어떤 상황에서)**

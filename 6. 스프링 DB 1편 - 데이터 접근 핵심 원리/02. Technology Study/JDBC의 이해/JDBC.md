@@ -2,7 +2,7 @@
 ### 주제 : JDBC(Java DataBase Connectivity)
 ---
 ### 태그
-* #DB연결, #DB연결방식표준, #JDBC한계, #ORM, #SQLMapper, #DBCP
+* #DB연결, #DB연결방식표준, #JDBC한계, #ORM, #SQLMapper, #DBCP, #JDBC
 
 ### 메모
 * **어디서(어떤 상황에서)**
