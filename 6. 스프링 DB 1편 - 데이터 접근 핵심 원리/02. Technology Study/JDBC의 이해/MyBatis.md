@@ -17,7 +17,7 @@
 		* 하지만, XML은 text로만 이루어 져있어 debugging이 어렵다는 단점이 있음
 
 ### 출처(참고문헌)
--  https://sdesigner.tistory.com/101
-
+- https://sdesigner.tistory.com/101
+* https://mybatis.org/mybatis-3/ko/index.html
 ### 연결문서
 - [[SQL Mapper]]
