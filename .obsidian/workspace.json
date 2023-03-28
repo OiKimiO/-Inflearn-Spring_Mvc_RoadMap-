@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md"
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,10 +269,10 @@
   },
   "active": "63336dc80d7f16de",
   "lastOpenFiles": [
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/1. 테스트 - 데이터베이스 연동.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/2. 테스트 - 데이터베이스 분리.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/3. 테스트 - 데이터 롤백.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/테스트 데이터베이스 연동 데이터 오류.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test에서 profile is active local로 인식됨.md",

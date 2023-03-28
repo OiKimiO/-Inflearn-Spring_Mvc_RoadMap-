@@ -48,6 +48,7 @@ public class JdbcTemplateItemRepositoryV3 implements ItemRepository{
 
 	@Override
 	public Item save(Item item) {
+		log.info("실행 = {}", item.toString());
 		SqlParameterSource param = new BeanPropertySqlParameterSource(item);
 		Number key = jdbcInsert.executeAndReturnKey(param);
 		item.setId(key.longValue());
