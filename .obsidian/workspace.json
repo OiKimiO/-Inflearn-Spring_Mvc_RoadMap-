@@ -4,191 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "adace454acf51099",
+        "id": "657e480ae8b48b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0aafab161dd842",
+            "id": "52964b39902a6d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/1. JPA 시작/JPA.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/1. 스프링 프레임워크 고급.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2d4bf38811ce8232",
+            "id": "453fb7f65b571555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/4. JPA 설정/JPA 설정.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/2. 스프링 핵심 디자인 패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1236dd37398b577",
+            "id": "2b0d32a4849ec1b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/1. 스프링 프레임워크 고급.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6005f36b6c51b13",
+            "id": "0affc57ea3839b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/4. JPA 설정/JPA 설정.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/1. 스프링 프레임워크 고급.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4bc347060bc9dc6",
+            "id": "a747eb5cedd8fec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/4. JPA 설정/spring-boot-starter-data-jpa 추가.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "300d78e040f4c9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Entity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "288610c9e45a4187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Id.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e4750c64c9344e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@GeneratedValue(strategy = GenerationType.IDENTITY).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "906ad8f5812259d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Column.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d3184504d04b6b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/JPA는 public or protected 의 기본 생성자가 필수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7301701ead3a1850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/EntityManager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54b70e7c730fbe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Insert SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "227b8fd25fab095c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Update SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d9fc8968fc49c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b983a5728cbb2c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 255.5
   },
   "right": {
     "id": "e3cbc1dc8ff5f94c",
@@ -255,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md"
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md"
               }
             }
           },
@@ -305,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,8 +232,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b983a5728cbb2c64",
+  "active": "a747eb5cedd8fec5",
   "lastOpenFiles": [
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/AdvancedApplicationTests.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/AdvancedApplication.java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources/templates",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources/application.properties",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources/static",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/HELP.md",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/advanced/HELP.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/1. 스프링 프레임워크 고급.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/3. 동시성 문제와 쓰레드 로컬.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/2. 스프링 핵심 디자인 패턴.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/4. 스프링 AOP.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/1. JPA 시작/JPA.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/7. JPA 적용3 - 예외 변환/EntityManager 예외.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/6. JPA 적용2 - 리포지토리 분석/JPA가 만들어서 실행한 Insert SQL.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/EntityManager.md",
@@ -367,28 +268,8 @@
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Id.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Entity.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/4. JPA 설정/JPA 설정.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/1. Jpa설정 파일이 테스트 자바에 주입되지 X.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/2. 테이블 잘못 입력함.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/repository/jpa/JpaItemRepositoryV1.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/repository/jpa",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/src/main/java/hello/itemservice/repository/jpa/JpaItemRepositoryV1.java~",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/config/JpaConfig.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/ItemServiceApplication.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/test/classes/hello/itemservice/domain/ItemRepositoryTest.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/test/classes/hello/itemservice/ItemServiceApplicationTests.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/test/classes/hello/itemservice/domain",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/test/classes/hello/itemservice",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/test/classes/hello",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/1. JPA 시작/JPA.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/2. ORM 개념1 - SQL 중심적인 개발의 문제점.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/4. JPA 설정.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/3. ORM 개념2 - JPA 소개.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/1. JPA 시.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test application.properties 제작.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/5. Unsatisfied dependency expressed through field 'itemRepository'.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/3. Prohibited package name.md",
     "Pasted image 20230328200541.png",
     "Pasted image 20230328170819.png",
     "사용기술/h2/src/main/org/h2/server/web/res/tree_view.gif",
