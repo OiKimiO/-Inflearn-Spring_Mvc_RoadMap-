@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29872289a983d21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/2. 로그 추적기 - 요구사항 분석.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7633a3325516c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/3. 로그 추적기 V1 - 프로토타입 개발.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/3. 로그 추적기 V1 - 프로토타입 개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/3. 로그 추적기 V1 - 프로토타입 개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md"
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/3. 로그 추적기 V1 - 프로토타입 개발.md"
               }
             }
           },
@@ -185,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
+                "file": "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/3. 로그 추적기 V1 - 프로토타입 개발.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,23 +256,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a747eb5cedd8fec5",
+  "active": "e7633a3325516c1d",
   "lastOpenFiles": [
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced/AdvancedApplicationTests.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced/AdvancedApplication.java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello/advanced",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello/advanced",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java/hello",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources/templates",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources/application.properties",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources/static",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/java/hello",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/test/java",
-    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/src/main/resources",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v1/OrderControllerV1.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/tmp/compileJava/compileTransaction/compile-output/hello/advanced/app/v1/OrderControllerV1.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/tmp/compileJava/compileTransaction/stash-dir/OrderControllerV1.class.uniqueId0",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/test-results/test/binary/results.bin",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/test-results/test/binary/output.bin.idx",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v1/OrderServiceV1.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v1/OrderRepositoryV1.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v0/OrderServiceV0.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v0/OrderRepositoryV0.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v0/OrderControllerV0.class",
+    "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/build/classes/java/main/hello/advanced/app/v1",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/2. 로그 추적기 - 요구사항 분석.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/3. 로그 추적기 V1 - 프로토타입 개발.md",
+    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
     "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/HELP.md",
     "8. 스프링 핵심 원리 - 고급편/01. Project Source/advanced/advanced/HELP.md",
     "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/1. 스프링 프레임워크 고급.md",
-    "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션1. 예제 만들기/1. 예제 만들기 - 프로젝트 생성.md",
     "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/3. 동시성 문제와 쓰레드 로컬.md",
     "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/2. 스프링 핵심 디자인 패턴.md",
     "8. 스프링 핵심 원리 - 고급편/02. Technology Study/섹션0. 강의 소개/4. 스프링 AOP.md",
@@ -268,8 +294,6 @@
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Id.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/5. JPA 적용1 - 개발/@Entity.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/4. JPA 설정/JPA 설정.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/5. 데이터 접근 기술 - JPA/2. 테이블 잘못 입력함.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/5. 데이터 접근 기술 - JPA/2. ORM 개념1 - SQL 중심적인 개발의 문제점.md",
     "Pasted image 20230328200541.png",
     "Pasted image 20230328170819.png",
     "사용기술/h2/src/main/org/h2/server/web/res/tree_view.gif",
