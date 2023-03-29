@@ -13,7 +13,7 @@ import lombok.RequiredArgsConstructor;
 // @Configuration
 @RequiredArgsConstructor
 public class MyBatisConfig {
-	
+	/*
 	private final ItemMapper itemMapper;
 	
 	// @Bean
@@ -23,6 +23,6 @@ public class MyBatisConfig {
 
 	private ItemRepository itemRepository() {
 		return new MyBatisItemRepository(itemMapper);
-	}
+	}*/
 	
 }

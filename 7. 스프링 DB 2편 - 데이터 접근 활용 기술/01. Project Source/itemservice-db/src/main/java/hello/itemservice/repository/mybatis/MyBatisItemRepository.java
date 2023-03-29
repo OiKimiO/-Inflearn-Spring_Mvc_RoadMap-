@@ -13,10 +13,10 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-@Repository
+//@Repository
 @RequiredArgsConstructor
-public class MyBatisItemRepository implements ItemRepository{
-
+public class MyBatisItemRepository{
+/*
 	private final ItemMapper itemMapper;
 
 	@Override
@@ -41,6 +41,6 @@ public class MyBatisItemRepository implements ItemRepository{
 		return itemMapper.findAll(cond);
 	}
 	
-	
+	*/
 	
 }
