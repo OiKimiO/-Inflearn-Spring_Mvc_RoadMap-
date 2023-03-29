@@ -4,22 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "73e7f8d9dc3af037",
+        "id": "844ec86d6eee4deb",
         "type": "tabs",
         "children": [
           {
-            "id": "9755239581310630",
+            "id": "594f36f076b451a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test application.properties 제작.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b52306d29422cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/테스트 데이터베이스 연동 데이터 오류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ae48e644f5d33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test에서 profile is active local로 인식됨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3320d9e165c8492e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/이전 데이터가 지워지지 않아 문제 발생.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bce6b512b6687d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/테스트 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f49f38af0edde6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/테스트 데이터베이스 연동 데이터 오류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9e58d4c2acf730a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/2. 테스트 - 데이터베이스 분리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63336dc80d7f16de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e34921c614f9acf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/1. JDK 설정 문제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5732571f000b0b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/3. Prohibited package name.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "116d9a3b4d23133c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/3. Prohibited package name.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b71cbe91c0ce5f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -70,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 348.5
   },
   "right": {
     "id": "e3cbc1dc8ff5f94c",
@@ -86,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md"
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md"
               }
             }
           },
@@ -136,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md",
+                "file": "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,8 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,46 +315,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9755239581310630",
+  "active": "b71cbe91c0ce5f80",
   "lastOpenFiles": [
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/hello/itemservice/domain/ItemRepositoryTest.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/hello/itemservice/ItemServiceApplicationTests.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/hello/itemservice/domain",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/hello/itemservice",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/hello",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/schema.sql",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/test/application.properties",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/web/ItemController.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/web/HomeController.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/service/ItemServiceV1.class",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/bin/main/hello/itemservice/service/ItemService.class",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/3. Prohibited package name.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/2. Junit설정.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/1. JDK 설정 문제.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/ItemServiceApplication.class",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/src/main/java/hello/itemservice/ItemServiceApplication.java~",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/인텔리제이/4. itemRepository 생성자 주입 문제.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/repository/mybatis/MyBatisItemRepository.class",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/src/main/java/hello/itemservice/repository/mybatis/MyBatisItemRepository.java~",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/repository/mybatis/ItemMapper.class",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/repository/mybatis",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/production/classes/hello/itemservice/config/MyBatisConfig.class",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/src/main/java/hello/itemservice/config/MyBatisConfig.java~",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/src/main/java/hello/itemservice/repository/mybatis/ItemMapper.java~",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/01. Project Source/itemservice-db/out/test/classes/hello/itemservice/domain/ItemRepositoryTest.class",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
+    "Pasted image 20230328200541.png",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/그래들 lib 빌드 문제.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/MyBatis - 정리.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/5. MyBatis 기능 정리1 - 동적 쿼리.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/4. MyBatis 적용3 - 분석.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/3. MyBatis 적용2 - 설정과 실행.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/2. MyBatis 적용1 - 기본.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/1. MyBatis 설정.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/6. MyBatis 기능 정리2 - 기타 기능.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/4. 데이터 접근 기술 - MyBatis/MyBatis - 정리.md",
-    "Pasted image 20230328200541.png",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/그래들 lib 빌드 문제.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test application.properties 제작.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/테스트 데이터베이스 연동 데이터 오류.md",
-    "6. 스프링 DB 1편 - 데이터 접근 핵심 원리/02. Technology Study/JDBC의 이해/MyBatis.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/이전 데이터가 지워지지 않아 문제 발생.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/4. 테스트 - @Transactional.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/5. 테스트 - 임베디드 모드 DB.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/1. 테스트 - 데이터베이스 연동.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/2. 테스트 - 데이터베이스 분리.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/3. 테스트 - 데이터 롤백.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/테스트 데이터베이스 연동 데이터 오류.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test에서 profile is active local로 인식됨.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/test application.properties 제작.md",
+    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/3. 데이터 접근 기술 - 테스트/이전 데이터가 지워지지 않아 문제 발생.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/테스트 정리.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/기본 SQL 스크립트를 사용한 DB 초기화.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/@Transactional을 적용한 테스트 동작.md",
     "7. 스프링 DB 2편 - 데이터 접근 활용 기술/02. Technology Study/3. 데이터 접근 기술 - 테스트/임베디드 모드 DB.md",
     "Pasted image 20230328170819.png",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/2. 테이터 접근 기술 - 스프링 JdbcTemplate/2-2. JDBCTemplate - 이름 지정 파라미터 2/Map 메서드 of 에러 발생.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/2. 테이터 접근 기술 - 스프링 JdbcTemplate/2-1. JDBCTemplate적용1/orElseThrow 파리미터 에러.md",
-    "7. 스프링 DB 2편 - 데이터 접근 활용 기술/03. Trouble Shooting/2. 테이터 접근 기술 - 스프링 JdbcTemplate/2-1. JDBCTemplate적용1/JdbcTemplate import 안됨.md",
     "사용기술/h2/src/main/org/h2/server/web/res/tree_view.gif",
     "사용기술/h2/src/main/org/h2/server/web/res/tree_users.gif",
     "사용기술/h2/src/main/org/h2/server/web/res/tree_user.gif",

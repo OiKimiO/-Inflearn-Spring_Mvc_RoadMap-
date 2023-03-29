@@ -1,9 +1,13 @@
 package hello.itemservice.domain;
 
+import hello.itemservice.ItemServiceApplication;
+import hello.itemservice.domain.Item;
 import hello.itemservice.repository.ItemRepository;
 import hello.itemservice.repository.ItemSearchCond;
 import hello.itemservice.repository.ItemUpdateDto;
 import hello.itemservice.repository.memory.MemoryItemRepository;
+import lombok.extern.slf4j.Slf4j;
+import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -18,20 +22,20 @@ import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@Transactional
-@SpringBootTest
+@Slf4j
+@SpringBootTest()
 class ItemRepositoryTest {
 
     @Autowired
     ItemRepository itemRepository;
-
+    /*
     // 트랜잭션 관련 코드
-/*
+
     @Autowired
     PlatformTransactionManager transactionManager;
     
     TransactionStatus status;
-    
+
     @BeforeEach
     void beforeEach() {
     	// 트랜잭션 시작
@@ -46,9 +50,9 @@ class ItemRepositoryTest {
         }
         
         // 트랜잭션 롤백
-        transactionManager.rollback(status);
-    }
-*/
+        // transactionManager.rollback(status);
+    }*/
+
     //@Test
     void save() {
         //given
@@ -59,7 +63,7 @@ class ItemRepositoryTest {
 
         //then
         Item findItem = itemRepository.findById(item.getId()).get();
-        assertThat(findItem).isEqualTo(savedItem);
+        Assertions.assertThat(findItem).isEqualTo(savedItem);
     }
 
     //@Test
@@ -75,13 +79,15 @@ class ItemRepositoryTest {
 
         //then
         Item findItem = itemRepository.findById(itemId).get();
-        assertThat(findItem.getItemName()).isEqualTo(updateParam.getItemName());
-        assertThat(findItem.getPrice()).isEqualTo(updateParam.getPrice());
-        assertThat(findItem.getQuantity()).isEqualTo(updateParam.getQuantity());
+        Assertions.assertThat(findItem.getItemName()).isEqualTo(updateParam.getItemName());
+        Assertions.assertThat(findItem.getPrice()).isEqualTo(updateParam.getPrice());
+        Assertions.assertThat(findItem.getQuantity()).isEqualTo(updateParam.getQuantity());
     }
 
     @Test
     void findItems() {
+        log.info("실행");
+
         //given
         Item item1 = new Item("itemA-1", 10000, 10);
         Item item2 = new Item("itemA-2", 20000, 20);
@@ -98,6 +104,6 @@ class ItemRepositoryTest {
 
     void test(String itemName, Integer maxPrice, Item... items) {
         List<Item> result = itemRepository.findAll(new ItemSearchCond(itemName, maxPrice));
-        assertThat(result).containsExactly(items);
+        Assertions.assertThat(result).containsExactly(items);
     }
 }
