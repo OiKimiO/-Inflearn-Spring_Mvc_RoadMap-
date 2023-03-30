@@ -53,7 +53,7 @@ class ItemRepositoryTest {
         // transactionManager.rollback(status);
     }*/
 
-    //@Test
+    @Test
     void save() {
         //given
         Item item = new Item("itemA", 10000, 10);
@@ -66,7 +66,7 @@ class ItemRepositoryTest {
         Assertions.assertThat(findItem).isEqualTo(savedItem);
     }
 
-    //@Test
+    @Test
     void updateItem() throws Exception {
         //given
         Item item = new Item("item1", 10000, 10);
