@@ -32,7 +32,7 @@ public class JpaItemRepositoryV1 implements ItemRepository {
     }
 
     @Override
-    public void update(Long itemId, ItemUpdateDto updateParam) throws Exception {
+    public void update(Long itemId, ItemUpdateDto updateParam) {
         Item findItem = em.find(Item.class, itemId);
         findItem.setItemName(updateParam.getItemName());
         findItem.setPrice(updateParam.getPrice());

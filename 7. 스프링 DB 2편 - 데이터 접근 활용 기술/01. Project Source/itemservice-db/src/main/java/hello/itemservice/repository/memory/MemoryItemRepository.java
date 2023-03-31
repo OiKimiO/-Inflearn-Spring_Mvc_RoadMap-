@@ -24,8 +24,8 @@ public class MemoryItemRepository implements ItemRepository {
     }
 
     @Override
-    public void update(Long itemId, ItemUpdateDto updateParam) throws Exception {
-        Item findItem = findById(itemId).orElseThrow(()-> new Exception("에러"));
+    public void update(Long itemId, ItemUpdateDto updateParam) {
+        Item findItem = findById(itemId).orElseThrow();
         findItem.setItemName(updateParam.getItemName());
         findItem.setPrice(updateParam.getPrice());
         findItem.setQuantity(updateParam.getQuantity());

@@ -22,7 +22,7 @@ public class ItemServiceV1 implements ItemService {
     }
 
     @Override
-    public void update(Long itemId, ItemUpdateDto updateParam) throws Exception {
+    public void update(Long itemId, ItemUpdateDto updateParam){
         itemRepository.update(itemId, updateParam);
     }
 

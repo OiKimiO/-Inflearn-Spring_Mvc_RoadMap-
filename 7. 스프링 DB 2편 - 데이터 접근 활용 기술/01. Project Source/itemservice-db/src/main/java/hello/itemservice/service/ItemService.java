@@ -11,7 +11,7 @@ public interface ItemService {
 
     Item save(Item item);
 
-    void update(Long itemId, ItemUpdateDto updateParam) throws Exception;
+    void update(Long itemId, ItemUpdateDto updateParam);
 
     Optional<Item> findById(Long id);
 
