@@ -26,25 +26,25 @@
 
 
 ## 6. 스프링 DB 1편 - 데이터 접근 핵심 원리
-1) 링크 : [프로젝트 소스코드(Project Source)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/01.%20Project%20Source)
+* 링크 : [프로젝트 소스코드(Project Source)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/01.%20Project%20Source)
 	
-2) 링크 : [기술 이론정리(Technology Study)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/02.%20Technology%20Study)
+* 링크 : [기술 이론정리(Technology Study)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/02.%20Technology%20Study)
 	
-3) 링크 : [강의 진행 시 겪었던 Trouble Shoot](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/03.%20Trouble%20Shooting)
+* 링크 : [강의 진행 시 겪었던 Trouble Shoot](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/03.%20Trouble%20Shooting)
 
 ## 7. 스프링 DB 2편 - 데이터 접근 활용 기술
-1) 링크 : [프로젝트 소스코드(Project Source)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/7.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/01.%20Project%20Source)
+* 링크 : [프로젝트 소스코드(Project Source)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/7.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/01.%20Project%20Source)
 	
-2) 링크 : [기술 이론정리(Technology Study)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/7.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/02.%20Technology%20Study)
+* 링크 : [기술 이론정리(Technology Study)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/7.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/02.%20Technology%20Study)
 	
-3) 링크 : [강의 진행 시 겪었던 Trouble Shoot](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/7.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/03.%20Trouble%20Shooting)
+* 링크 : [강의 진행 시 겪었던 Trouble Shoot](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/7.%20%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/03.%20Trouble%20Shooting)
 
 ## 8. 스프링 핵심 원리 - 고급편(현재)
-1) 링크 : [프로젝트 소스코드(Project Source)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8/01.%20Project%20Source)
+* 링크 : [프로젝트 소스코드(Project Source)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8/01.%20Project%20Source)
 	
-2) 링크 : [기술 이론정리(Technology Study)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8/02.%20Technology%20Study)
+* 링크 : [기술 이론정리(Technology Study)](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8/02.%20Technology%20Study)
 	
-3) 링크 : [강의 진행 시 겪었던 Trouble Shoot](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8/03.%20Trouble%20Shooting)
+* 링크 : [강의 진행 시 겪었던 Trouble Shoot](https://github.com/OiKimiO/Spring_MVC_RoadMap/tree/main/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8/03.%20Trouble%20Shooting)
 
 ## 9. 실전! 스프링 부트   출시 예정
 
